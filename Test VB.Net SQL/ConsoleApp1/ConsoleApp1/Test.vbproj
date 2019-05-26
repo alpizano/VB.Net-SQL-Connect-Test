@@ -48,6 +48,12 @@
     <OptionInfer>Off</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Business.Student">
+      <HintPath>..\Business.Policy\bin\Debug\Business.Student.dll</HintPath>
+    </Reference>
+    <Reference Include="Data.Student">
+      <HintPath>..\Data.Policy\bin\Debug\Data.Student.dll</HintPath>
+    </Reference>
     <Reference Include="DataAccess.Common">
       <HintPath>..\Common\bin\Debug\DataAccess.Common.dll</HintPath>
     </Reference>

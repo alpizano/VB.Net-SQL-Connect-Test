@@ -7,11 +7,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Test", "ConsoleApp1\Test.vb
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataAccess.Common", "Common\DataAccess.Common.vbproj", "{33478629-380C-4498-9710-34B8D98E480B}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataAccess.Policy", "DataAccess.Policy\DataAccess.Policy.vbproj", "{CD2719F9-344D-430F-8E0F-247DDB59EC2B}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataAccess.Student", "DataAccess.Policy\DataAccess.Student.vbproj", "{CD2719F9-344D-430F-8E0F-247DDB59EC2B}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data.Policy", "Data.Policy\Data.Policy.vbproj", "{77834232-1976-4D17-84B2-407A659159CE}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data.Student", "Data.Policy\Data.Student.vbproj", "{77834232-1976-4D17-84B2-407A659159CE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Business.Policy", "Business.Policy\Business.Policy.vbproj", "{4D981CC0-7765-43E0-B4A5-08841C03A969}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Business.Student", "Business.Policy\Business.Student.vbproj", "{4D981CC0-7765-43E0-B4A5-08841C03A969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

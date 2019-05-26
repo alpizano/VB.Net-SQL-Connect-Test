@@ -2,3 +2,7 @@ C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Deb
 C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.Resources.resources
 C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbproj.GenerateResource.cache
 C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbproj.CoreCompileInputs.cache
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbprojAssemblyReference.cache
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Student.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbproj.CoreCompileInputs.cache

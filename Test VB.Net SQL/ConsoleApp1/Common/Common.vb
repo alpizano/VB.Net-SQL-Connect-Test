@@ -18,7 +18,8 @@ Public Module Common
   Public Function ExecuteDataTable(ByVal sSQL As String) As DataTable
 
     Dim oDataTable As New DataTable
-    Dim oDataAdapter As New SqlDataAdapter(sSQL, GetConnectionString())
+    'Dim oDataAdapter As New SqlDataAdapter(sSQL, GetConnectionString())
+    Dim oDataAdapter As New SqlDataAdapter(sSQL, "Data Source=DESKTOP-OS08J4I;Initial Catalog=testDB;Integrated Security=True")
     oDataAdapter.Fill(oDataTable)
     Return oDataTable
 
@@ -26,9 +27,11 @@ Public Module Common
 
   Private Function GetConnectionString() As String
 
-    Using rdrSettings As StreamReader = File.OpenText(Path.Combine(Environment.CurrentDirectory, "DataAccess.Common.txt"))
-      Return "Data Source=" & rdrSettings.ReadLine() & "; Database=" & rdrSettings.ReadLine() & "; Integrated Security=SSPI"
-    End Using
+    'Using rdrSettings As StreamReader = File.OpenText(Path.Combine(Environment.CurrentDirectory, "DataAccess.Common.txt"))
+    'Return "Data Source=" & rdrSettings.ReadLine() & "; Database=" & rdrSettings.ReadLine() & "; Integrated Security=True"
+    'End Using
+
+    Return "Data Source=DESKTOP-OS08J4I; Database=testDB; Integrated Security=True"
 
   End Function
 

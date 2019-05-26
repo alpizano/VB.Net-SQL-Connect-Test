@@ -13,3 +13,30 @@ C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\T
 C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.exe
 C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.xml
 C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.exe.config
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.exe
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.xml
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.dll
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.dll.config
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbproj.CopyComplete
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.exe
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.xml
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Business.Student.dll
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Data.Student.dll
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Student.dll
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Business.Student.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Business.Student.xml
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Data.Student.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Data.Student.xml
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Data.Student.dll.config
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Student.pdb
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Student.xml
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Student.dll.config
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.xml
+C:\Users\XxaemaeThxX\Desktop\New folder (2)\VB.Net-SQL-Connect-Test\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbprojAssemblyReference.cache
