@@ -1,0 +1,4 @@
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbprojAssemblyReference.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Business.Policy\obj\Debug\Business.Policy.vbproj.CoreCompileInputs.cache

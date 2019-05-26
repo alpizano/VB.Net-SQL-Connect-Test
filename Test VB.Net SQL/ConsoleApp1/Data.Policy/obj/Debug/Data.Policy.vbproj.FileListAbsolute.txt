@@ -1,0 +1,11 @@
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\bin\Debug\Data.Policy.dll.config
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\bin\Debug\Data.Policy.dll
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\bin\Debug\Data.Policy.pdb
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\bin\Debug\Data.Policy.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.vbproj.CoreCompileInputs.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.dll
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.pdb
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Data.Policy\obj\Debug\Data.Policy.vbprojAssemblyReference.cache

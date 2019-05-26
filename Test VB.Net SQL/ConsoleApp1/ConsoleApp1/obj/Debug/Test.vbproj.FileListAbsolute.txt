@@ -1,0 +1,15 @@
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.exe.config
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.exe
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.pdb
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\Test.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.dll
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.pdb
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\DataAccess.Common.dll.config
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.vbproj.CopyComplete
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.exe
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\Test.pdb

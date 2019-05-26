@@ -1,0 +1,11 @@
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbprojAssemblyReference.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

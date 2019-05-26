@@ -1,0 +1,3 @@
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\Common.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\Common.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\Common.vbproj.CoreCompileInputs.cache

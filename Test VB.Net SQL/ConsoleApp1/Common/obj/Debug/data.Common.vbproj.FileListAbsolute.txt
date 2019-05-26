@@ -1,0 +1,10 @@
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\data.Common.vbproj.GenerateResource.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\data.Common.vbproj.CoreCompileInputs.cache
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\bin\Debug\DataAccess.Common.dll.config
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\bin\Debug\DataAccess.Common.dll
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\bin\Debug\DataAccess.Common.pdb
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\bin\Debug\DataAccess.Common.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\DataAccess.Common.Resources.resources
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\DataAccess.Common.dll
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\DataAccess.Common.xml
+C:\Users\XxaemaeThxX\Desktop\Test VB.Net SQL\ConsoleApp1\Common\obj\Debug\DataAccess.Common.pdb
