@@ -25,11 +25,11 @@ Public Class Student
   End Property
 
 
-  Public Function Find(ByVal iEntityID As Integer) As dat.Students
+  Public Function Find() As dat.Students
 
     'Dim daStudent As New da.Student
 
-    Return PopulateDataObject(daStudent.Fetch(iEntityID))
+    Return PopulateDataObject(daStudent.Fetch())
 
   End Function
 
@@ -44,13 +44,13 @@ Public Class Student
         datStudent = New dat.Student()
 
         With datStudent
-
+          .ID = oDataRow.Field(Of Integer)("ID")
           .PrimKeyID = oDataRow.Field(Of Integer)("TestPrimKeyID")
           .UniqID = oDataRow.Field(Of Integer)("TestUniqID")
           .FirstName = oDataRow.Field(Of String)("FirstName")
           .LastName = oDataRow.Field(Of String)("LastName")
           .Age = oDataRow.Field(Of Integer)("Age")
-          .Payrate = oDataRow.Field(Of Decimal)("PayRate")
+          .PayRate = oDataRow.Field(Of Decimal)("PayRate")
 
         End With
         datStudents.Add(datStudent) 'Adding Students object to List of Students

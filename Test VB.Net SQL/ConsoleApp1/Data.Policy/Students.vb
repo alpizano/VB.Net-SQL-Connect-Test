@@ -36,15 +36,6 @@
     End Get
   End Property
 
-  ''' <summary>
-  '''   Removes a policy specified by an ID.
-  ''' </summary>
-  ''' <param name="iPolicyID">
-  '''   Integer indicating the ID of the desired policy.
-  ''' </param>
-  ''' <remarks>
-  '''   None
-  ''' </remarks>
   Public Sub RemoveByID(ByVal StudentID As Integer)
 
     For Each datStudent As Student In Me

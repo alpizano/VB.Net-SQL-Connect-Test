@@ -26,16 +26,17 @@ Public Class Test
 
     Dim busStudent As New bus.Student
 
-    datStudents = busStudent.Find(18422186)
+    datStudents = busStudent.Find()
 
 
     If datStudents IsNot Nothing Then
       For Each datStudent As dat.Student In datStudents
-        Console.WriteLine(datStudent.PrimKeyID)
+        Console.WriteLine(datStudent.ID & " " & datStudent.PrimKeyID & " " & datStudent.UniqID & " " & datStudent.FirstName & " " & datStudent.LastName & " " &
+                          datStudent.Age & " " & datStudent.PayRate)
       Next
     End If
 
-
+    Console.WriteLine(" WHERE c.nameof LIKE '" & 14 & "%' ")
 
 
   End Sub

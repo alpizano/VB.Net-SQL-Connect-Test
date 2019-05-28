@@ -1,5 +1,6 @@
 ﻿Public Class Student
 
+  Private iID As Integer
   Private iPrimKeyID As Integer
   Private iUniqID As Integer
   Private sFirstName As String
@@ -27,12 +28,21 @@
     decPayRate = 0
   End Sub
 
+  Property ID() As Integer
+    Get
+      Return iID
+    End Get
+    Set(value As Integer)
+      iID = value
+    End Set
+  End Property
+
   Property PrimKeyID() As Integer
     Get
       Return iPrimKeyID
     End Get
     Set(value As Integer)
-
+      iPrimKeyID = value
     End Set
   End Property
 
@@ -72,7 +82,7 @@
     End Set
   End Property
 
-  Property Payrate() As Decimal
+  Property PayRate() As Decimal
     Get
       Return decPayRate
     End Get

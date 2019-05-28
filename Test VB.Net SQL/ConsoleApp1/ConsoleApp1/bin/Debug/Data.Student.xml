@@ -22,16 +22,5 @@ Data.Student
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="M:Data.Student.Students.RemoveByID(System.Int32)">
- <summary>
-   Removes a policy specified by an ID.
- </summary>
- <param name="iPolicyID">
-   Integer indicating the ID of the desired policy.
- </param>
- <remarks>
-   None
- </remarks>
-</member>
 </members>
 </doc>
