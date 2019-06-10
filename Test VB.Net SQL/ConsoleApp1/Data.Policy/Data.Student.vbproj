@@ -88,6 +88,7 @@
     </Compile>
     <Compile Include="Student.vb" />
     <Compile Include="Students.vb" />
+    <Compile Include="Students2.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
